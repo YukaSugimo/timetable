@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <test.h>
 
 int isDelimiter(char p, char delim){
   return p == delim;
